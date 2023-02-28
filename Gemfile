@@ -1,3 +1,3 @@
-ruby '3.2.0'
+ruby '3.1.0'
 
 gem 'rubocop'
